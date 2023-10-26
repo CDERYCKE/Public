@@ -7,7 +7,7 @@ TP 1 - découverte - pixels et couleurs RVB
 
 
 TP 2 - Filtres  
-[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?aux=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP2/France.png&from=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP2/TP2.ipynb) 
+[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?aux=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP2/colors.jpg&aux=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP2/paysage.jpg&aux=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP2/eowyn.jpg&from=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP2/TP2.ipynb) 
 
 TP 3 - Détection de contours  
 [![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?aux=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP3/France.png&from=https://raw.githubusercontent.com/CDERYCKE/SNT-Photo/master/TP3/TP3.ipynb) 
